@@ -1,2 +1,2 @@
-# test-sonarcloud-project
-test-sonarcloud-project
+# vulnerable-php-code-examples
+Examples of vulnerable PHP code
